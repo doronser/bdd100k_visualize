@@ -44,9 +44,17 @@ Once you have the dataset, modify bdd100k_vis.py to include the path to the data
 
 ## Screenshots
 
+Object Detection:
+
 <img src="imgs/pic1.jpg" width="75%" height="75%">
 
+
+Semantic Segmentation:
+
 <img src="imgs/pic2.jpg" width="75%" height="75%">
+
+
+Instance Segmentation:
 
 <img src="imgs/pic3.jpg" width="75%" height="75%">
 
