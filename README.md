@@ -5,11 +5,12 @@ bdd100k_vis is a tkinter GUI application that provides visualizations for the Be
 
 <img src="imgs/animation.gif" width="100%" height="100%">
 
-### Main eatures:
+### Main Features:
 * Browse and view images
-* Visualize colormaps for semantic and instance segmentation
+* Semantic/instance segmentation visualization:
   * Overlay using dynamic alpha composite (user adjustable)
-* Visualize bounding boxes for object detection
+* Object detection visualization:
+  * Draw bounding boxes from JSON labels file
 * Legend for object colors
 
 
