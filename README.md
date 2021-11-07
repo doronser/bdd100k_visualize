@@ -3,7 +3,7 @@
 
 bdd100k_vis is a tkinter GUI application that provides visualizations for the Berkley Deep Drive Dataset [bdd100k](https://github.com/bdd100k/bdd100k).
 
-<img src="imgs/animation.gif" width="75%" height="75%">
+<img src="imgs/animation.gif" width="100%" height="100%">
 
 ### Main eatures:
 * Browse and view images
@@ -44,7 +44,11 @@ Once you have the dataset, modify bdd100k_vis.py to include the path to the data
 
 ## Screenshots
 
-<img src="imgs/pic1.jpg" width="100%" height="100%">
+<img src="imgs/pic1.jpg" width="75%" height="75%">
+
+<img src="imgs/pic2.jpg" width="75%" height="75%">
+
+<img src="imgs/pic3.jpg" width="75%" height="75%">
 
 
 
