@@ -23,7 +23,7 @@ class bdd100k_vis(Tk):
         self.img_dir = None 
         self.img_name = None
         self.hex_dict = label_to_hex() # used for semantic segmentation color legend
-        self.title('WiSense - BDD100K Visualization Tool') # GUI window title
+        self.title('BDD100K Visualization Tool') # GUI window title
         #  used for drop down menu event handling
         self.dataset_dict = {"Train": "train", "Validation": "val","":""}
         self.label_dict = {"Semantic Segmentation": "sem_seg", "Instance Segmentation": "ins_seg", "Object Detection": "obj_det", "":""}
