@@ -33,13 +33,11 @@ Once you have the dataset, modify bdd100k_vis.py to include the path to the data
  app = bdd100k_vis('path/to/dataset/bdd100k')
 ```
 
-## Examples
+## Screenshots
 
-<img src="imgs/header.jpg" width="100%" height="100%">
+<img src="imgs/animation.gif" width="100%" height="100%">
 
-
-
-**Why Use 1D Convolutions?**
+<img src="imgs/pic1" width="100%" height="100%">
 
 
 ## License
