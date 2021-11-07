@@ -50,12 +50,12 @@ Object Detection:
 <img src="imgs/pic1.jpg" width="75%" height="75%">
 
 
-Semantic Segmentation:
+Instance Segmentation:
 
 <img src="imgs/pic2.jpg" width="75%" height="75%">
 
 
-Instance Segmentation:
+Semantic Segmentation:
 
 <img src="imgs/pic3.jpg" width="75%" height="75%">
 
