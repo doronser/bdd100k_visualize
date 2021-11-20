@@ -1,7 +1,7 @@
 
 # bdd100k Visualization Tool
 
-bdd100k_vis is a tkinter GUI application that provides visualizations for the Berkley Deep Drive Dataset [bdd100k](https://github.com/bdd100k/bdd100k).
+bdd100k_vis is a Dash-Plotly GUI application that provides visualizations for the Berkley Deep Drive Dataset [bdd100k](https://github.com/bdd100k/bdd100k).
 
 <img src="imgs/animation.gif" width="100%" height="100%">
 
@@ -23,6 +23,8 @@ git clone doronser/bdd100k_visualize
 cd bdd100k_visualize
 
 python bdd100k_vis.py
+
+http://127.0.0.1:8050/
 ```
 
 ## Data Setup
@@ -47,17 +49,17 @@ Once you have the dataset, modify bdd100k_vis.py to include the path to the data
 
 Object Detection:
 
-<img src="imgs/pic1.jpg" width="75%" height="75%">
+<img src="imgs/dash_pic1.gif" width="75%" height="75%">
 
 
 Instance Segmentation:
 
-<img src="imgs/pic2.jpg" width="75%" height="75%">
+<img src="imgs/dash_pic2.jpg" width="75%" height="75%">
 
 
 Semantic Segmentation:
 
-<img src="imgs/pic3.jpg" width="75%" height="75%">
+<img src="imgs/dash_pic3.jpg" width="75%" height="75%">
 
 
 
