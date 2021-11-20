@@ -1,9 +1,11 @@
 
 # bdd100k Visualization Tool
 
-bdd100k_vis is a Dash-Plotly GUI application that provides visualizations for the Berkley Deep Drive Dataset [bdd100k](https://github.com/bdd100k/bdd100k).
+bdd100k_vis is a Dash webapp that provides visualizations for the Berkley Deep Drive Dataset [bdd100k](https://github.com/bdd100k/bdd100k).
 
 <img src="imgs/dash_animation.gif" width="100%" height="100%">
+
+This tool is also available as a TKinter GUI application (see branches). The Dash implementation is partially based off of the [DETR Detection App](https://github.com/plotly/dash-detr).
 
 ### Main Features:
 * Browse and view images
