@@ -3,7 +3,7 @@
 
 bdd100k_vis is a Dash-Plotly GUI application that provides visualizations for the Berkley Deep Drive Dataset [bdd100k](https://github.com/bdd100k/bdd100k).
 
-<img src="imgs/animation.gif" width="100%" height="100%">
+<img src="imgs/dash_animation.gif" width="100%" height="100%">
 
 ### Main Features:
 * Browse and view images
@@ -49,17 +49,17 @@ Once you have the dataset, modify bdd100k_vis.py to include the path to the data
 
 Object Detection:
 
-<img src="imgs/dash_pic1.gif" width="75%" height="75%">
+<img src="imgs/dash_pic1.gif" width="90%" height="90%">
 
 
 Instance Segmentation:
 
-<img src="imgs/dash_pic2.jpg" width="75%" height="75%">
+<img src="imgs/dash_pic2.jpg" width="90%" height="90%">
 
 
 Semantic Segmentation:
 
-<img src="imgs/dash_pic3.jpg" width="75%" height="75%">
+<img src="imgs/dash_pic3.jpg" width="90%" height="90%">
 
 
 
